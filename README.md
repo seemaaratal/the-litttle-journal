@@ -1,16 +1,75 @@
-# React + Vite
+🌸 The Little Journal – Personal Blog Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to The Little Journal, my personal blog website where I share my interests, hobbies, travel memories, favourite food and beautiful moments of life.
 
-Currently, two official plugins are available:
+This website is designed with a cute, simple and elegant pink theme using modern web technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌷 Live Website
 
-## React Compiler
+Visit here: https://seemaaratal.github.io/the-little-journal/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Features
 
-## Expanding the Oxlint configuration
+- 🏠 Home – Welcome page
+- 💗 About Me – Introduction about myself
+- 🎨 Hobbies – My interests and hobbies
+- 📚 Academics – My educational journey
+- 🌸 Favourite Things – Things I love
+- 👗 Lifestyle – Lifestyle and daily moments
+- ✈️ Travel – Travel memories
+- 🍓 Food – Favourite food and desserts
+- 📸 Gallery – Collection of beautiful pictures
+- 💌 Contact – Contact form
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- React Router
+- Vite
+- Git and GitHub
+
+💻 Installation and Setup
+
+1. Clone the repository:
+   
+   git clone https://github.com/seemaaratal/the-little-journal.git
+
+2. Open the project folder:
+   
+   cd the-little-journal
+
+3. Install dependencies:
+   
+   npm install
+
+4. Start the development server:
+   
+   npm run dev
+
+5. Open the local URL shown in your terminal.
+
+🚀 Deployment
+
+This project is deployed using GitHub Pages.
+
+👩‍💻 About the Developer
+
+Seema Aratal
+
+Computer Science Engineering Student
+
+I am passionate about web development, learning new technologies and creating creative projects.
+
+📬 Connect With Me
+
+- GitHub: https://github.com/seemaaratal
+
+---
+
+⭐ If you like this project, don't forget to give it a star!
+
+Made with 💗 by Seema.
